@@ -41,3 +41,26 @@ def create_inout_symbols(alphabet):
     for index, character in enumerate(alphabet, 1):
         f.write(character + '\t' + str(index) + '\n')
     f.close()
+
+from math import log
+
+def create_probability_dictionary_alphabet(tokenizedList):
+    dictionary = {}
+    alphabet = {}
+    letterCount = 0
+    for word in tokenizedList:
+        for letter in word:
+            letterCount += 1
+            if letter in alphabet:
+                alphabet[letter] += 1
+            else:
+                alphabet[letter] = 1
+        if word in dictionary:
+            dictionary[word] += 1
+        else:
+            dictionary[word] = 1
+    for word in dictionary:
+        dictionary[word] = -log(dictionary[word] / len(tokenizedList), 10)
+    for letter in alphabet:
+        alphabet[letter] = -log(alphabet[letter] / letterCount, 10)
+    return dictionary, alphabet
