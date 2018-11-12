@@ -26,11 +26,24 @@ while getopts hp: opt; do
 	esac
 done
 
-# compile dictionary acceptor
-fstcompile --isymbols=chars.syms --osymbols=chars.syms dictionary.fst.txt |
+# compile dictionary acceptors
+
+fstcompile --isymbols=chars.syms --osymbols=chars.syms dictionary.word.fst.txt |
 # fstrmepsilon not needed
 fstdeterminize |
-fstminimize - dictionary.fst
+fstminimize - |
+fstarcsort --sort_type=ilabel - dictionary.word.fst
 
-# compile levenshtein transducer
-fstcompile --isymbols=chars.syms --osymbols=chars.syms lev.fst.txt lev.fst
+fstcompile --isymbols=chars.syms --osymbols=chars.syms dictionary.letter.fst.txt |
+# fstrmepsilon not needed
+fstdeterminize |
+fstminimize - |
+fstarcsort --sort_type=ilabel - dictionary.letter.fst
+
+# compile levenshtein transducers
+
+fstcompile --isymbols=chars.syms --osymbols=chars.syms lev.word.fst.txt |
+fstarcsort --sort_type=ilabel - lev.word.fst
+
+fstcompile --isymbols=chars.syms --osymbols=chars.syms lev.word.fst.txt |
+fstarcsort --sort_type=ilabel - lev.letter.fst
