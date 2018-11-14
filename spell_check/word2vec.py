@@ -10,6 +10,9 @@ sentences = produce_sentences(sys.argv[1])
 # Initialize word2vec. Context is taken as the 2 previous and 2 next words
 model = Word2Vec(sentences, window=5, size=100, workers=10)
 model.train(sentences, total_examples=len(sentences), epochs=100)
+#f = open('W2VModel.model', 'w')
+#model.save('W2VModel.model')
+#f.close()
 
 # get ordered vocabulary list
 voc = model.wv.index2word

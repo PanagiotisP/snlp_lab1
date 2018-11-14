@@ -13,7 +13,7 @@ def preprocess_file(filePath, preprocessFun = identity_preprocess):
     return preprocessedList
 
 def produce_sentences(filePath):
-    with open(filePath, 'r') as f:
+    with open(filePath, mode = 'r', encoding = 'utf8') as f:
         return [tokenize(sentence) for sentence in f.read().split('.')]
 
 import re

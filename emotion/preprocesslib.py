@@ -11,10 +11,6 @@ neg_test_dir = os.path.join(test_dir, 'neg')
 # For memory limitations. These parameters fit in 8GB of RAM.
 # If you have 16G of RAM you can experiment with the full dataset / W2V
 MAX_NUM_SAMPLES = 5000
-# Load first 1M word embeddings. This works because GoogleNews are roughly
-# sorted from most frequent to least frequent.
-# It may yield much worse results for other embeddings corpora
-NUM_W2V_TO_LOAD = 1000000
 
 import numpy as np
 
@@ -42,13 +38,13 @@ def tokenize(s):
 def preproc_tok(s):
     return tokenize(preprocess(s))
 
-def read_samples(folder, preprocess=lambda x: x):
+def read_samples(folder, preprocess=lambda x: x, maxSamples = MAX_NUM_SAMPLES):
     samples = glob.iglob(os.path.join(folder, '*.txt'))
     data = []
     for i, sample in enumerate(samples):
-        if MAX_NUM_SAMPLES > 0 and i == MAX_NUM_SAMPLES:
+        if MAX_NUM_SAMPLES > 0 and i == maxSamples:
             break
-        with open(sample, 'r') as fd:
+        with open(sample, mode = 'r', encoding = 'utf8') as fd:
             x = [preprocess(l) for l in fd][0]
             data.append(x)
     return data
