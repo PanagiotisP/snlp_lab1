@@ -54,4 +54,4 @@ def create_corpus(pos, neg):
     y = np.array([1 for _ in pos] + [0 for _ in neg])
     indices = np.arange(y.shape[0])
     np.random.shuffle(indices)
-    return list(corpus[indices]), list(y[indices])
+    return corpus[indices], y[indices]
