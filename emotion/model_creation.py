@@ -24,8 +24,7 @@ SEED = 42
 # Fix numpy random seed for reproducibility
 np.random.seed(42)
 
-def create_model(features, y):
-    clf = LogisticRegression()
+def create_model(features, y, clf = LogisticRegression()):
     clf.fit(features, y)
     return clf
 
