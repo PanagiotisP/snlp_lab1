@@ -27,12 +27,6 @@ def tokenize(line):
     line = line.strip()
     return [word for word in re.sub(r'\s+', r' ', strip_punctuation(line)).lower().split(' ') if word != '']
 
-# creates dictionary and alphabet as sets
-def create_dictionary_alphabet(tokenizedList):
-    dictionary = set(tokenizedList)
-    alphabet = set(''.join(tokenizedList))
-    return dictionary, alphabet
-
 # creates input and output symbols for fst
 def create_inout_symbols(alphabet):
     f = open('chars.syms', 'w')
@@ -59,6 +53,7 @@ def create_probability_dictionary_alphabet(tokenizedList):
             dictionary[word] += 1
         else:
             dictionary[word] = 1
+            
     for word in dictionary:
         dictionary[word] = -log(dictionary[word] / len(tokenizedList), 10)
     for letter in alphabet:

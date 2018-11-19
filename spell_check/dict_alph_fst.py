@@ -17,7 +17,7 @@ create_levenshtein_fst(alphabet, meanLetterWeight, meanLetterWeight, meanLetterW
 
 create_dictionary_fst(dictionary, 'word.fst')
 
-dictionary = {key:sum([alphabet[letter] for letter in key]) for key in dictionary}
+dictionary = {key:sum(alphabet[letter] for letter in key) for key in dictionary}
 create_dictionary_fst(dictionary, 'letter.fst')
 
 # create dictionary as txt file
