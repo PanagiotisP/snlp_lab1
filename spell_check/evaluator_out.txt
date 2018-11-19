@@ -1,142 +1,142 @@
-contented:	contenpted -> ['cons', 'consented', 'content', 'conten', 'contented']	contende -> ['contend', 'contented', 'continue', 'contents', 'contend']	contended -> ['contend', 'content', 'intended', 'content', 'contented']	contentid -> ['contents', 'contend', 'contente', 'contente', 'contented']
-beginning:	begining -> ['beginni', 'beginn', 'beginnin', 'beginn', 'beginning']
-problem:	problam -> ['proble', 'proble', 'proclaim', 'problems', 'problem']	proble -> ['noble', 'robe', 'probe', 'problem', 'probe']	promblem -> ['p', 'problems', 'prob', 'pro', 'problem']	proplen -> ['proper', 'problem', 'proven', 'people', 'prophet']
-driven:	dirven -> ['darken', 'diver', 'driven', 'given', 'dirge']
-ecstasy:	exstacy -> ['eu', 'eu', 'ec', 'ecstasy', 'eustace']	ecstacy -> ['e', 'ecstas', 'ecstas', 'eustace', 'ecstasy']
-juice:	guic -> ['quit', 'gulp', 'm', 'mic', 'guv']	juce -> ['jun', 'rude', 'jack', 'juice', 'june']	jucie -> ['juic', 'juic', 'judge', 'laci', 'juice']	juise -> ['just', 'g', 'g', 'juic', 'guise']	juse -> ['ouse', 'use', 'fuse', 'jose', 'just']
-locally:	localy -> ['lonely', 'local', 'locall', 'locally', 'local']
-compare:	compair -> ['complain', 'compare', 'compass', 'compare', 'company']
-pronunciation:	pronounciation -> ['profana', 'provoca', 'c', 'conjunc', 'provocation']
-transportability:	transportibility -> ['re', 'r', 'r', 're', 'responsibility']
-minuscule:	miniscule -> ['miniatur', 'minute', 'miniat', 'ridicule', 'miniature']
-independent:	independant -> ['i', 'independe', 'dependant', 'independe', 'independent']	independant -> ['i', 'independe', 'dependant', 'independe', 'independent']
-arranged:	aranged -> ['r', 'ar', 'arr', 'arranged', 'ranged']	arrainged -> ['ar', 'arra', 'arrange', 'arran', 'arranged']
-poetry:	poartry -> ['portray', 'portly', 'partl', 'poult', 'paltry']	poertry -> ['portly', 'poultr', 'poet', 'poe', 'poetry']	poetre -> ['poets', 'm', 'metre', 'poets', 'poetry']	poety -> ['poet', 'poetr', 'poets', 'piet', 'poesy']	powetry -> ['powdery', 'poultr', 'poe', 'po', 'poetry']
-level:	leval -> ['real', 'heal', 'peal', 'level', 'legal']
-basically:	basicaly -> ['scaly', 'rascal', 'sickly', 'musica', 'radical']
-triangular:	triangulaur -> ['tri', 'trian', 'triangular', 'triangula', 'triangular']
-unexpected:	unexpcted -> ['unexpe', 'unexpected', 'unexpec', 'unexpe', 'unexpected']	unexpeted -> ['unexpected', 'unexpe', 'unexpect', 'unexpec', 'unexpected']	unexspected -> ['uns', 'unsuspected', 'unexp', 'unex', 'unexpected']
-standardizing:	stanerdizing -> ['stand', 'stand', 'stand', 'standi', 'standing']
-variable:	varable -> ['beara', 'varia', 'capab', 'eatab', 'variable']
-further:	futher -> ['gather', 'author', 'hither', 'further', 'father']
-monitoring:	monitering -> ['mi', 'l', 'lo', 'ministeri', 'loitering']
-biscuits:	biscits -> ['visits', 'biscuit', 'biscui', 'biscu', 'biscuits']	biscutes -> ['d', 'd', 'biscuit', 'dispute', 'biscuits']	biscuts -> ['discuss', 'biscuit', 'biscuit', 'biscui', 'biscuits']	bisquits -> ['bisc', 'biscuit', 'bisc', 'bisc', 'biscuits']	buiscits -> ['biscui', 'pursuit', 'b', 'biscu', 'biscuits']	buiscuts -> ['biscuit', 'biscui', 'bi', 'b', 'biscuits']
-available:	avaible -> ['avai', 'available', 'availed', 'avail', 'audible']
-separate:	seperate -> ['desperate', 'temperate', 'o', 'operate', 'separate']
-necessary:	neccesary -> ['nec', 'necess', 'nec', 'neces', 'necessary']	necesary -> ['n', 'necessa', 'neces', 'necess', 'necessary']	neccesary -> ['nec', 'necess', 'nec', 'neces', 'necessary']	necassary -> ['nec', 'ne', 'nece', 'nece', 'necessary']	necassery -> ['necessity', 'necessa', 'nece', 'nece', 'necessary']	neccasary -> ['neces', 'nec', 'nece', 'nece', 'necessary']
-definition:	defenition -> ['decep', 'detonatio', 'deceptio', 'depositi', 'repetition']
-receipt:	receit -> ['repent', 'regent', 'receipt', 'recent', 'deceit']	receite -> ['deceive', 'receipt', 'receipts', 'recipe', 'receive']	reciet -> ['resist', 'regret', 'recipe', 'relief', 'recipe']	recipt -> ['resist', 'recei', 'rece', 'receipt', 'recipe']
-remind:	remine -> ['retire', 'remind', 'rein', 'refine', 'remind']	remined -> ['remind', 'refined', 'remaine', 'reminde', 'reined']
-initials:	inetials -> ['initia', 'initi', 'ini', 'ini', 'initials']	inistals -> ['init', 'initi', 'initi', 'initi', 'initials']	initails -> ['entrail', 'initi', 'initia', 'initia', 'initials']	initals -> ['inroad', 'animals', 'initia', 'initi', 'initials']	intials -> ['intents', 'indians', 'init', 'ini', 'initials']
-magnificent:	magnificnet -> ['magnifice', 'magnific', 'magnificen', 'magnificen', 'magnificent']	magificent -> ['mag', 'munifice', 'magni', 'magn', 'magnificent']	magnifcent -> ['ma', 'ma', 'magnific', 'magnifi', 'magnificent']	magnifecent -> ['magnifice', 'magnific', 'magnifi', 'magnifi', 'magnificent']	magnifiscant -> ['magnifice', 'magnifi', 'magnifice', 'magnific', 'magnificent']	magnifisent -> ['ma', 'ma', 'magnific', 'magnific', 'magnificent']	magnificant -> ['s', 'significant', 'magnifice', 'magnifice', 'magnificent']
-aunt:	annt -> ['ann', 'aunt', 'anna', 'an', 'ant']	anut -> ['ab', 'n', 'ant', 'abut', 'nut']	arnt -> ['au', 'arat', 'aunt', 'ant', 'art']
-initial:	intial -> ['u', 'india', 'until', 'initials', 'indian']
-there:	ther -> ['them', 'other', 'the', 'ether', 'their']
-experiences:	experances -> ['experi', 'experien', 'experi', 'experie', 'experiences']
-built:	biult -> ['fault', 'be', 'belt', 'bill', 'bill']
-totally:	totaly -> ['notar', 'total', 'totall', 'totally', 'totals']
-understand:	undersand -> ['undertone', 'und', 'understa', 'underst', 'understand']	undistand -> ['under', 'distant', 'unders', 'under', 'understand']
-southern:	southen -> ['southern', 'souther', 'soften', 'southend', 'southern']
-definitely:	definately -> ['d', 'defini', 'defini', 'delicat', 'definitely']	difinately -> ['defini', 'delicat', 'de', 'de', 'definitely']
-visited:	fisited -> ['fished', 'limite', 'v', 'v', 'visited']	viseted -> ['rivete', 'viewe', 'visi', 'visi', 'visited']	vistid -> ['visit', 'viv', 'vivid', 'distil', 'victim']	vistied -> ['visit', 'visit', 'pitied', 'visite', 'vested']
-voluntary:	volantry -> ['ga', 'gallantr', 'violent', 'valiant', 'vacantly']
-meant:	ment -> ['melt', 'lent', 'men', 'met', 'pent']
-receive:	recieve -> ['recede', 'believe', 'recip', 'recipe', 'relieve']
-sources:	sorces -> ['sou', 'sor', 'sores', 'sources', 'forces']
-whether:	wether -> ['wh', 'whether', 'weather', 'ether', 'nether']
-useful:	usefull -> ['usefully', 'usefu', 'useful', 'usefully', 'useful']
-literature:	litriture -> ['litera', 'liter', 'litera', 'liter', 'literature']
-valuable:	valubale -> ['valua', 'valuabl', 'valuab', 'valuab', 'valuable']	valuble -> ['valuab', 'valua', 'bauble', 'value', 'valuable']
-desiccate:	desicate -> ['devia', 'ded', 'ded', 'delicate', 'dedicate']	dessicate -> ['dissipate', 'del', 'delicate', 'ded', 'dedicate']	dessiccate -> ['del', 'delicate', 'dese', 'des', 'desecrate']
-clerical:	clearical -> ['chem', 'clearin', 'clearin', 'chemical', 'clearing']
-splendid:	spledid -> ['spl', 's', 'splend', 'splen', 'splendid']	splended -> ['splendi', 'pleaded', 'slender', 'splendi', 'splendid']	splened -> ['splendi', 'splendid', 'speed', 'slewed', 'spend']	splended -> ['splendi', 'pleaded', 'slender', 'splendi', 'splendid']
-between:	beetween -> ['b', 'bet', 'b', 'be', 'between']
-completely:	completly -> ['complete', 'completel', 'completed', 'complete', 'completely']
-account:	acount -> ['ac', 'count', 'acc', 'account', 'amount']
-cemetery:	cemetary -> ['c', 'ceme', 'cemete', 'cemete', 'cemetery']	semetary -> ['c', 'secr', 'secretary', 'sedenta', 'cemetery']
-special:	speaical -> ['spec', 'pelican', 'specia', 'spec', 'special']	specail -> ['specie', 'specia', 'specia', 'special', 'specie']	specal -> ['peal', 'specks', 'specia', 'speci', 'special']	speical -> ['o', 'speci', 'speci', 'special', 'optical']
-latest:	lates -> ['late', 'hates', 'gates', 'later', 'latest']	latets -> ['las', 'lasts', 'late', 'hates', 'gates']	latiest -> ['lofties', 'latent', 'late', 'lat', 'latest']	latist -> ['lar', 'latent', 'lars', 'late', 'latest']
-perhaps:	perhapse -> ['phase', 'purchase', 'perhaps', 'perhaps', 'perhaps']
-remember:	rember -> ['timber', 'robber', 'temper', 'member', 'ember']	remeber -> ['remoter', 'rememb', 'member', 'ember', 'remember']	rememmer -> ['re', 'remem', 'rememb', 'rememb', 'remember']	rermember -> ['r', 're', 'rem', 're', 'remember']
-chapter:	chaper -> ['paper', 'shaped', 'chapel', 'chapter', 'cheaper']	chaphter -> ['chapt', 'char', 'charter', 'chap', 'chapter']	chaptur -> ['chapte', 'capto', 'charter', 'capture', 'chapter']
-cake:	cak -> ['cat', 'cap', 'oak', 'can', 'ak']
-various:	vairious -> ['v', 'vicious', 'var', 'va', 'various']
-february:	febuary -> ['janu', 'feb', 'febru', 'febr', 'february']
-pretend:	pertend -> ['pre', 'pre', 'petted', 'extend', 'pretend']	protend -> ['pre', 'proved', 'probed', 'pre', 'pretend']	prtend -> ['ostend', 'pru', 'prund', 'extend', 'pretend']	pritend -> ['printed', 'prided', 'pre', 'pre', 'pretend']
-choosing:	chosing -> ['closi', 'choo', 'choosi', 'chasi', 'choking']
-wrote:	rote -> ['rate', 'rome', 'rope', 'robe', 'rose']	wote -> ['wot', 'woe', 'wrote', 'note', 'vote']
-particular:	particulaur -> ['particular', 'particulari', 'particulars', 'particula', 'particular']
-awful:	awfall -> ['wall', 'awfully', 'awful', 'awful', 'fall']	afful -> ['aw', 'aw', 'foul', 'lawf', 'awful']
-arrangement:	arragment -> ['arrangem', 'armam', 'fr', 'f', 'fragment']
-challenges:	chalenges -> ['chan', 'chan', 'chall', 'challenge', 'changes']	chalenges -> ['chan', 'chan', 'chall', 'challenge', 'changes']
-laugh:	lagh -> ['ash', 'leash', 'laugh', 'lash', 'lag']	lauf -> ['last', 'lame', 'lard', 'lamb', 'lag']	laught -> ['t', 'augh', 'laugh', 'caug', 'taught']	lugh -> ['u', 'hugh', 'ugh', 'lush', 'laugh']
-often:	ofen -> ['omen', 'ofte', 'oxen', 'open', 'oven']	offen -> ['oft', 'oft', 'offend', 'offer', 'often']	offten -> ['oft', 'offend', 'o', 'of', 'often']	ofton -> ['orgo', 'ofte', 'cotto', 'norto', 'often']
-someone:	somone -> ['boone', 'smote', 'domine', 'simon', 'someone']
-personnel:	personnell -> ['personal', 'persona', 'person', 'personally', 'personally']
-unique:	uneque -> ['untru', 'undue', 'uni', 'uni', 'unique']
-diagrammatically:	diagrammaticaally -> ['g', 'grammatica', 'grammatical', 'grammatica', 'grammatical']
-description:	discription -> ['de', 'discre', 'discretion', 'de', 'description']
-poems:	poims -> ['prima', 'pomp', 'toils', 'poe', 'poems']	pomes -> ['pores', 'poles', 'comes', 'homes', 'poses']
-purple:	perple -> ['peo', 'pebb', 'pu', 'people', 'purple']	perpul -> ['percy', 'peri', 'peril', 'peru', 'perdu']	poarple -> ['portly', 'pale', 'parade', 'pu', 'purple']
-decide:	descide -> ['describe', 'desire', 'despise', 'beside', 'decide']
-articles:	articals -> ['arriv', 'article', 'article', 'arrival', 'articles']
-position:	possition -> ['positions', 'posi', 'po', 'pos', 'position']
-extended:	extented -> ['exerte', 'expende', 'extend', 'expecte', 'extended']
-hierarchal:	hierachial -> ['m', 'mercia', 'preachin', 'teaching', 'impartial']
-really:	realy -> ['realm', 'ready', 'real', 'rely', 'reply']	relley -> ['felled', 'belly', 'elle', 'feller', 'galley']	relly -> ['belly', 'reply', 'rally', 'redl', 'jelly']
-voting:	voteing -> ['j', 'nothing', 'rotti', 'jottin', 'noting']
-committee:	comittee -> ['comm', 'committed', 'commi', 'comm', 'committee']
-wanted:	wantid -> ['wane', 'pante', 'wafte', 'wantin', 'wanted']	wonted -> ['hoote', 'wronge', 'longed', 'noted', 'wanted']
-benefits:	benifits -> ['be', 'bef', 'bene', 'benefit', 'befits']
-definitions:	defenitions -> ['des', 'del', 'deser', 'desertions', 'deletions']
-scissors:	scisors -> ['scisso', 'scion', 'scis', 'sciss', 'scissors']	sissors -> ['mirro', 'sisters', 'sci', 'sc', 'scissors']
-levels:	levals -> ['level', 'devils', 'levers', 'rivals', 'revels']
-parallel:	paralel -> ['paral', 'paradol', 'paralle', 'parall', 'parallel']	paralell -> ['parallel', 'paralle', 'parall', 'paralle', 'parallel']	parrallel -> ['pa', 'para', 'pa', 'par', 'parallel']	parralell -> ['par', 'parallel', 'paral', 'paralle', 'parallel']	parrallell -> ['pa', 'par', 'parallel', 'par', 'parallel']
-accommodation:	accomodation -> ['accomm', 'accommodating', 'accumulation', 'accomm', 'accommodating']	acommodation -> ['acc', 'accommodating', 'commotion', 'acc', 'accommodating']	acomodation -> ['approb', 'avo', 'av', 'avocat', 'abomination']
-planned:	planed -> ['plane', 'played', 'planet', 'planted', 'planes']
-hierarchy:	hierchy -> ['fiercer', 'hit', 'hitch', 'pit', 'pitchy']
-transferred:	transfred -> ['transferr', 'transferre', 'transformed', 'transfus', 'transfused']
-minutes:	muinets -> ['m', 'mines', 'miners', 'guinea', 'muskets']
-arrangeing:	aranging -> ['cringi', 'ragi', 'ar', 'arr', 'arranging']
-accessing:	accesing -> ['atheli', 'accepti', 'accept', 'accept', 'accepting']
-stomach:	stomac -> ['stocks', 'static', 'stomachs', 'stomach', 'stomach']	stomache -> ['stomach', 'stomachs', 'stomachs', 'stomach', 'stomachs']	stomec -> ['stoner', 'stones', 'stored', 'storey', 'stores']	stumache -> ['sto', 'sto', 'sto', 'stomach', 'stomachs']
-unfortunately:	unfortunatly -> ['unfortunate', 'unfortunate', 'unfortunatel', 'unfortunate', 'unfortunately']
-considerable:	conciderable -> ['cons', 'considerably', 'cons', 'cons', 'considerable']
-access:	acess -> ['acce', 'ac', 'chess', 'acc', 'access']
-singular:	singulaur -> ['singular', 'singula', 'singular', 'singula', 'singular']
-scarcely:	scarcly -> ['scarce', 'scarce', 'sharpl', 'smartl', 'scarcely']	scarecly -> ['scarc', 'scarce', 'scarce', 'scarce', 'scarcely']	scarely -> ['scare', 'scaly', 'stately', 'sanel', 'scarcely']	scarsely -> ['scarc', 'co', 'coars', 'hoars', 'scarcely']
-questionnaire:	questionaire -> ['questionab', 'questionab', 'questioning', 'questionabl', 'questionable']
-experience:	experance -> ['exu', 'experie', 'experience', 'exub', 'exuberance']	experiance -> ['experienced', 'experiences', 'experie', 'experie', 'experience']
-possible:	possable -> ['possi', 'pa', 'pa', 'possible', 'passable']
-refreshment:	reafreshment -> ['re', 'refreshments', 'ref', 're', 'refreshment']	refreshmant -> ['r', 'refreshments', 'refreshme', 'refreshme', 'refreshment']	refresment -> ['refreshm', 'refreshments', 'represent', 'refresh', 'refreshment']	refressmunt -> ['refresh', 'refresh', 'refreshme', 'refreshme', 'refreshment']
-embarrass:	embaras -> ['embar', 'embarr', 'embarrass', 'embarr', 'embarrass']	embarass -> ['emb', 'embarra', 'embar', 'embarr', 'embarrass']
-visitors:	vistors -> ['victory', 'history', 'visit', 'visi', 'visitors']
-auxiliary:	auxillary -> ['audit', 'audito', 'auditory', 'pillar', 'artillery']
-decided:	descided -> ['resided', 'de', 'dec', 'decide', 'decided']
-benefit:	benifit -> ['u', 'unfit', 'bene', 'bene', 'benefit']
-consider:	concider -> ['concise', 'considers', 'cons', 'confide', 'consider']
-fails:	failes -> ['f', 'fails', 'files', 'failed', 'fables']
-career:	carrer -> ['carv', 'carter', 'carver', 'carrier', 'career']
-occurrence:	occurence -> ['occurrences', 'occurre', 'occur', 'occurr', 'occurrence']	occurence -> ['occurrences', 'occurre', 'occur', 'occurr', 'occurrence']
-certain:	cirtain -> ['cu', 'captain', 'contain', 'certain', 'curtain']
-poem:	poame -> ['pale', 'page', 'pok', 'poke', 'pomp']
-lieu:	liew -> ['like', 'lies', 'view', 'lie', 'lieu']
-establishing:	astablishing -> ['astonishing', 'establishin', 'e', 'e', 'establishing']	establising -> ['establish', 'establish', 'establishi', 'establish', 'establishing']
-different:	diffrent -> ['d', 'differ', 'diff', 'diffe', 'different']
-loans:	lones -> ['ones', 'lines', 'loves', 'hones', 'lanes']
-extremely:	extreamly -> ['extrem', 'extrem', 'extrem', 'extreme', 'extremely']
-addressable:	addresable -> ['adv', 'ad', 'advisa', 'ag', 'agreeable']
-gallery:	galery -> ['galley', 'galle', 'gal', 'gall', 'gallery']	gallary -> ['galle', 'galley', 'galle', 'galle', 'gallery']	gallerry -> ['gallery', 'galley', 'galle', 'galler', 'gallery']	gallrey -> ['galler', 'gallery', 'valley', 'alley', 'galley']
-centrally:	centraly -> ['central', 'co', 'contrary', 'central', 'central']
-families:	familes -> ['s', 'smiles', 'family', 'famili', 'families']
-bicycle:	bicycal -> ['bicyc', 'bicycl', 'bicycl', 'bicycle', 'bicycle']	bycicle -> ['vehicl', 'buck', 'buckle', 'article', 'bicycle']	bycycle -> ['bicycles', 'cycle', 'bi', 'bi', 'bicycle']
-choice:	choise -> ['cho', 'choose', 'chaise', 'chose', 'choice']
-opposite:	opisite -> ['oppo', 'opp', 'opposite', 'opia', 'opiate']	oppasite -> ['o', 'opp', 'oppo', 'oppo', 'opposite']	oppesite -> ['a', 'oppo', 'appetite', 'oppo', 'opposite']	oppisit -> ['oppose', 'oppose', 'deposit', 'opposite', 'opposite']	oppisite -> ['o', 'opp', 'oppo', 'oppo', 'opposite']	opposit -> ['deposit', 'oppose', 'opposed', 'opposite', 'opposite']	oppossite -> ['op', 'opposi', 'oppo', 'oppos', 'opposite']	oppossitte -> ['oppo', 'oppos', 'opposit', 'oppos', 'opposite']
-curtains:	cartains -> ['cap', 'cu', 'cu', 'curtains', 'captains']	certans -> ['certain', 'certain', 'curtains', 'germans', 'certing']	courtens -> ['courtesy', 'courteous', 'courts', 'courted', 'courted']	cuaritains -> ['cur', 'curtain', 'cur', 'cu', 'curtains']	curtans -> ['curtai', 'curtain', 'currants', 'curtain', 'curtains']	curtians -> ['m', 'curtai', 'curtai', 'curtains', 'martians']	curtions -> ['curious', 'curtai', 'curtains', 'cushi', 'portions']
-address:	adress -> ['caress', 'agrees', 'add', 'address', 'dress']	adres -> ['andrew', 'agrees', 'aren', 'andres', 'acres']
-liaison:	liaision -> ['mans', 'div', 'd', 'd', 'division']	liason -> ['reason', 'season', 'lesson', 'lion', 'wilson']
-management:	managment -> ['manageme', 'manageme', 'managem', 'manage', 'management']
-inconvenient:	inconvienient -> ['inconvenien', 'inconvenient', 'inconve', 'inconv', 'inconvenient']	inconvient -> ['inconve', 'inconven', 'inconveni', 'inconven', 'inconvenient']	inconvinient -> ['inconvenien', 'inconvenient', 'inconve', 'inconve', 'inconvenient']
-variant:	vairiant -> ['vagr', 'vag', 'val', 'valiant', 'vagrant']
-supersede:	supercede -> ['supers', 'superseded', 'supers', 'supers', 'supersede']	superceed -> ['superse', 'supersed', 'supers', 'supers', 'superseded']
-200 correct out of 270, 74.07407407407408%
+contented:	-w contenpted -> contented	-l contenpted -> contented	-w contende -> contend	-l contende -> contend	-w contended -> contented	-l contended -> contented	-w contentid -> contented	-l contentid -> contented
+beginning:	-w begining -> beginning	-l begining -> beginning
+problem:	-w problam -> problem	-l problam -> problem	-w proble -> problem	-l proble -> probe	-w promblem -> problem	-l promblem -> problem	-w proplen -> people	-l proplen -> pollen
+driven:	-w dirven -> given	-l dirven -> dire
+ecstasy:	-w exstacy -> ecstasy	-l exstacy -> eustace	-w ecstacy -> ecstasy	-l ecstacy -> ecstasy
+juice:	-w guic -> quick	-l guic -> git	-w juce -> june	-l juce -> june	-w jucie -> judge	-l jucie -> lacie	-w juise -> juice	-l juise -> guise	-w juse -> just	-l juse -> use
+locally:	-w localy -> local	-l localy -> local
+compare:	-w compair -> company	-l compair -> compare
+pronunciation:	-w pronounciation -> provocation	-l pronounciation -> provocation
+transportability:	-w transportibility -> responsibility	-l transportibility -> responsibility
+minuscule:	-w miniscule -> miniature	-l miniscule -> ridicule
+independent:	-w independant -> independent	-l independant -> independent	-w independant -> independent	-l independant -> independent
+arranged:	-w aranged -> arranged	-l aranged -> ranged	-w arrainged -> arranged	-l arrainged -> arranged
+poetry:	-w poartry -> party	-l poartry -> party	-w poertry -> poetry	-l poertry -> poetry	-w poetre -> poetry	-l poetre -> poetry	-w poety -> poet	-l poety -> poet	-w powetry -> poetry	-l powetry -> poetry
+level:	-w leval -> level	-l leval -> legal
+basically:	-w basicaly -> easily	-l basicaly -> scaly
+triangular:	-w triangulaur -> triangular	-l triangulaur -> triangular
+unexpected:	-w unexpcted -> unexpected	-l unexpcted -> unexpected	-w unexpeted -> unexpected	-l unexpeted -> unexpected	-w unexspected -> unexpected	-l unexspected -> unexpected
+standardizing:	-w stanerdizing -> standing	-l stanerdizing -> standing
+variable:	-w varable -> variable	-l varable -> variable
+further:	-w futher -> father	-l futher -> father
+monitoring:	-w monitering -> ministering	-l monitering -> loitering
+biscuits:	-w biscits -> biscuits	-l biscits -> biscuits	-w biscutes -> biscuits	-l biscutes -> disputes	-w biscuts -> biscuits	-l biscuts -> biscuits	-w bisquits -> biscuits	-l bisquits -> biscuits	-w buiscits -> biscuits	-l buiscits -> biscuits	-w buiscuts -> biscuits	-l buiscuts -> biscuits
+available:	-w avaible -> available	-l avaible -> avail
+separate:	-w seperate -> separate	-l seperate -> separate
+necessary:	-w neccesary -> necessary	-l neccesary -> necessary	-w necesary -> necessary	-l necesary -> necessary	-w neccesary -> necessary	-l neccesary -> necessary	-w necassary -> necessary	-l necassary -> necessary	-w necassery -> necessary	-l necassery -> necessary	-w neccasary -> necessary	-l neccasary -> necessary
+definition:	-w defenition -> desertion	-l defenition -> desertion
+receipt:	-w receit -> recent	-l receit -> recent	-w receite -> receive	-l receite -> receive	-w reciet -> secret	-l reciet -> reet	-w recipt -> receipt	-l recipt -> recipe
+remind:	-w remine -> remind	-l remine -> refine	-w remined -> remained	-l remined -> reined
+initials:	-w inetials -> initials	-l inetials -> initials	-w inistals -> initials	-l inistals -> initials	-w initails -> initials	-l initails -> initials	-w initals -> initials	-l initals -> initials	-w intials -> initials	-l intials -> initials
+magnificent:	-w magnificnet -> magnificent	-l magnificnet -> magnificent	-w magificent -> magnificent	-l magificent -> magnificent	-w magnifcent -> magnificent	-l magnifcent -> magnificent	-w magnifecent -> magnificent	-l magnifecent -> magnificent	-w magnifiscant -> magnificent	-l magnifiscant -> magnificent	-w magnifisent -> magnificent	-l magnifisent -> magnificent	-w magnificant -> magnificent	-l magnificant -> magnificent
+aunt:	-w annt -> anna	-l annt -> ant	-w anut -> ant	-l anut -> ant	-w arnt -> art	-l arnt -> ant
+initial:	-w intial -> until	-l intial -> india
+there:	-w ther -> the	-l ther -> the
+experiences:	-w experances -> experiences	-l experances -> experiences
+built:	-w biult -> but	-l biult -> bit
+totally:	-w totaly -> total	-l totaly -> total
+understand:	-w undersand -> understand	-l undersand -> understand	-w undistand -> understand	-l undistand -> understand
+southern:	-w southen -> southern	-l southen -> southern
+definitely:	-w definately -> definitely	-l definately -> definitely	-w difinately -> definitely	-l difinately -> definitely
+visited:	-w fisited -> visited	-l fisited -> visited	-w viseted -> visited	-l viseted -> visited	-w vistid -> visit	-l vistid -> visit	-w vistied -> visited	-l vistied -> pitied
+voluntary:	-w volantry -> country	-l volantry -> pantry
+meant:	-w ment -> went	-l ment -> met
+receive:	-w recieve -> relieve	-l recieve -> relieve
+sources:	-w sorces -> forces	-l sorces -> sores
+whether:	-w wether -> whether	-l wether -> ether
+useful:	-w usefull -> useful	-l usefull -> useful
+literature:	-w litriture -> literature	-l litriture -> literature
+valuable:	-w valubale -> valuable	-l valubale -> valuable	-w valuble -> valuable	-l valuble -> valuable
+desiccate:	-w desicate -> delicate	-l desicate -> dedicate	-w dessicate -> delicate	-l dessicate -> dedicate	-w dessiccate -> delicate	-l dessiccate -> dedicate
+clerical:	-w clearical -> clearing	-l clearical -> clearin
+splendid:	-w spledid -> splendid	-l spledid -> splendid	-w splended -> splendid	-l splended -> splendid	-w splened -> opened	-l splened -> speed	-w splended -> splendid	-l splended -> splendid
+between:	-w beetween -> between	-l beetween -> between
+completely:	-w completly -> completely	-l completly -> completely
+account:	-w acount -> count	-l acount -> count
+cemetery:	-w cemetary -> cemetery	-l cemetary -> cemetery	-w semetary -> secretary	-l semetary -> cemetery
+special:	-w speaical -> special	-l speaical -> special	-w specail -> special	-l specail -> specie	-w specal -> special	-l specal -> special	-w speical -> special	-l speical -> special
+latest:	-w lates -> later	-l lates -> late	-w latets -> later	-l latets -> late	-w latiest -> latest	-l latiest -> latest	-w latist -> latest	-l latist -> latest
+perhaps:	-w perhapse -> perhaps	-l perhapse -> perhaps
+remember:	-w rember -> member	-l rember -> ember	-w remeber -> remember	-l remeber -> remember	-w rememmer -> remember	-l rememmer -> remember	-w rermember -> remember	-l rermember -> remember
+chapter:	-w chaper -> chapter	-l chaper -> chapel	-w chaphter -> chapter	-l chaphter -> chapter	-w chaptur -> chapter	-l chaptur -> chapter
+cake:	-w cak -> can	-l cak -> ak
+various:	-w vairious -> various	-l vairious -> various
+february:	-w febuary -> february	-l febuary -> february
+pretend:	-w pertend -> parted	-l pertend -> petted	-w protend -> pretend	-l protend -> pretend	-w prtend -> pretend	-l prtend -> pretend	-w pritend -> pretend	-l pritend -> pretend
+choosing:	-w chosing -> closing	-l chosing -> chasing
+wrote:	-w rote -> rose	-l rote -> rot	-w wote -> note	-l wote -> woe
+particular:	-w particulaur -> particular	-l particulaur -> particular
+awful:	-w awfall -> fall	-l awfall -> wall	-w afful -> awful	-l afful -> awful
+arrangement:	-w arragment -> fragment	-l arragment -> armament
+challenges:	-w chalenges -> changes	-l chalenges -> changes	-w chalenges -> changes	-l chalenges -> changes
+laugh:	-w lagh -> laugh	-l lagh -> lag	-w lauf -> last	-l lauf -> la	-w laught -> caught	-l laught -> aught	-w lugh -> laugh	-l lugh -> ugh
+often:	-w ofen -> open	-l ofen -> omen	-w offen -> often	-l offen -> often	-w offten -> often	-l offten -> often	-w ofton -> often	-l ofton -> often
+someone:	-w somone -> someone	-l somone -> someone
+personnel:	-w personnell -> personal	-l personnell -> personal
+unique:	-w uneque -> unique	-l uneque -> unique
+diagrammatically:	-w diagrammaticaally -> grammatical	-l diagrammaticaally -> grammatical
+description:	-w discription -> description	-l discription -> description
+poems:	-w poims -> poems	-l poims -> poems	-w pomes -> comes	-l pomes -> homes
+purple:	-w perple -> people	-l perple -> people	-w perpul -> peril	-l perpul -> peru	-w poarple -> purple	-l poarple -> purple
+decide:	-w descide -> decide	-l descide -> decide
+articles:	-w articals -> article	-l articals -> article
+position:	-w possition -> position	-l possition -> position
+extended:	-w extented -> extended	-l extented -> extended
+hierarchal:	-w hierachial -> special	-l hierachial -> mercia
+really:	-w realy -> ready	-l realy -> real	-w relley -> really	-l relley -> elle	-w relly -> really	-l relly -> rely
+voting:	-w voteing -> nothing	-l voteing -> noting
+committee:	-w comittee -> committee	-l comittee -> committee
+wanted:	-w wantid -> wanted	-l wantid -> wanted	-w wonted -> wanted	-l wonted -> wanted
+benefits:	-w benifits -> benefit	-l benifits -> befits
+definitions:	-w defenitions -> deletions	-l defenitions -> deletions
+scissors:	-w scisors -> scissors	-l scisors -> scissors	-w sissors -> scissors	-l sissors -> scissors
+levels:	-w levals -> level	-l levals -> heals
+parallel:	-w paralel -> parallel	-l paralel -> parallel	-w paralell -> parallel	-l paralell -> parallel	-w parrallel -> parallel	-l parrallel -> parallel	-w parralell -> parallel	-l parralell -> parallel	-w parrallell -> parallel	-l parrallell -> parallel
+accommodation:	-w accomodation -> accumulation	-l accomodation -> accumulation	-w acommodation -> commotion	-l acommodation -> commotion	-w acomodation -> abomination	-l acomodation -> abomination
+planned:	-w planed -> placed	-l planed -> plane
+hierarchy:	-w hierchy -> fierce	-l hierchy -> hitch
+transferred:	-w transfred -> transformed	-l transfred -> transfer
+minutes:	-w muinets -> mines	-l muinets -> mines
+arrangeing:	-w aranging -> arranging	-l aranging -> arranging
+accessing:	-w accesing -> accepting	-l accesing -> accepting
+stomach:	-w stomac -> stomach	-l stomac -> stomach	-w stomache -> stomach	-l stomache -> stomach	-w stomec -> some	-l stomec -> some	-w stumache -> stomach	-l stumache -> stomach
+unfortunately:	-w unfortunatly -> unfortunately	-l unfortunatly -> unfortunately
+considerable:	-w conciderable -> considerable	-l conciderable -> considerable
+access:	-w acess -> access	-l acess -> access
+singular:	-w singulaur -> singular	-l singulaur -> singular
+scarcely:	-w scarcly -> scarcely	-l scarcly -> scarcely	-w scarecly -> scarcely	-l scarecly -> scarcely	-w scarely -> scarcely	-l scarely -> scarcely	-w scarsely -> scarcely	-l scarsely -> scarcely
+questionnaire:	-w questionaire -> questionable	-l questionaire -> questionable
+experience:	-w experance -> experience	-l experance -> experience	-w experiance -> experience	-l experiance -> experience
+possible:	-w possable -> possible	-l possable -> passable
+refreshment:	-w reafreshment -> refreshment	-l reafreshment -> refreshment	-w refreshmant -> refreshment	-l refreshmant -> refreshment	-w refresment -> refreshment	-l refresment -> refreshment	-w refressmunt -> refreshment	-l refressmunt -> refreshment
+embarrass:	-w embaras -> embarrass	-l embaras -> ears	-w embarass -> embarrass	-l embarass -> embarrass
+visitors:	-w vistors -> visitors	-l vistors -> visitors
+auxiliary:	-w auxillary -> artillery	-l auxillary -> artillery
+decided:	-w descided -> decided	-l descided -> decided
+benefit:	-w benifit -> benefit	-l benifit -> benefit
+consider:	-w concider -> consider	-l concider -> consider
+fails:	-w failes -> failed	-l failes -> files
+career:	-w carrer -> career	-l carrer -> career
+occurrence:	-w occurence -> occurrence	-l occurence -> occurrence	-w occurence -> occurrence	-l occurence -> occurrence
+certain:	-w cirtain -> certain	-l cirtain -> certain
+poem:	-w poame -> some	-l poame -> ome
+lieu:	-w liew -> view	-l liew -> lie
+establishing:	-w astablishing -> establishing	-l astablishing -> establishing	-w establising -> establishing	-l establising -> establishing
+different:	-w diffrent -> different	-l diffrent -> different
+loans:	-w lones -> ones	-l lones -> ones
+extremely:	-w extreamly -> extremely	-l extreamly -> extremely
+addressable:	-w addresable -> agreeable	-l addresable -> agreeable
+gallery:	-w galery -> gallery	-l galery -> gallery	-w gallary -> gallery	-l gallary -> gallery	-w gallerry -> gallery	-l gallerry -> gallery	-w gallrey -> galley	-l gallrey -> galley
+centrally:	-w centraly -> central	-l centraly -> central
+families:	-w familes -> families	-l familes -> families
+bicycle:	-w bicycal -> bicycle	-l bicycal -> bicycle	-w bycicle -> bicycle	-l bycicle -> bicycle	-w bycycle -> bicycle	-l bycycle -> bicycle
+choice:	-w choise -> choose	-l choise -> chose
+opposite:	-w opisite -> opposite	-l opisite -> opiate	-w oppasite -> opposite	-l oppasite -> opposite	-w oppesite -> opposite	-l oppesite -> opposite	-w oppisit -> opposite	-l oppisit -> opposite	-w oppisite -> opposite	-l oppisite -> opposite	-w opposit -> opposite	-l opposit -> opposite	-w oppossite -> opposite	-l oppossite -> opposite	-w oppossitte -> opposite	-l oppossitte -> opposite
+curtains:	-w cartains -> curtains	-l cartains -> curtains	-w certans -> certain	-l certans -> certain	-w courtens -> courtesy	-l courtens -> courts	-w cuaritains -> curtains	-l cuaritains -> curtains	-w curtans -> curtains	-l curtans -> curtains	-w curtians -> martians	-l curtians -> martians	-w curtions -> curious	-l curtions -> curious
+address:	-w adress -> dress	-l adress -> dress	-w adres -> acres	-l adres -> acres
+liaison:	-w liaision -> division	-l liaision -> division	-w liason -> reason	-l liason -> lion
+management:	-w managment -> management	-l managment -> management
+inconvenient:	-w inconvienient -> inconvenient	-l inconvienient -> inconvenient	-w inconvient -> inconvenient	-l inconvient -> convent	-w inconvinient -> inconvenient	-l inconvinient -> inconvenient
+variant:	-w vairiant -> valiant	-l vairiant -> valiant
+supersede:	-w supercede -> supersede	-l supercede -> supersede	-w superceed -> superseded	-l superceed -> superseded
+170 correct out of 270, 62.96296296296296%152 correct out of 270, 56.2962962962963%

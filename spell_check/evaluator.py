@@ -25,8 +25,8 @@ for line in fin:
         letter_level_correction = os.popen('./spell_check.sh' + ' -l ' + word).read().strip()
         print('\t-w' + word + ' -> ' + word_level_correction)
         fout.write('\t-w' + word + ' -> ' + word_level_correction)
-        print('\t-w' + word + ' -> ' + letter_level_correction)
-        fout.write('\t-w' + word + ' -> ' + letter_level_correction)
+        print('\t-l' + word + ' -> ' + letter_level_correction)
+        fout.write('\t-l' + word + ' -> ' + letter_level_correction)
 
         # if any correction matches the expected word increase counter
         if targetWord == word_level_correction:
