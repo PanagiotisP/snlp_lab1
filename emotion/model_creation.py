@@ -95,11 +95,14 @@ del vectorizer, trainingSet, testSet, model
 # load precomputed word2vec model
 w2v = Word2Vec.load('W2VModel.model')
 
+# function that returns vector represantation of comment
 def comment2vec(comment):
     return np.mean([w2v.wv[word] if word in w2v.wv else np.zeros(w2v.vector_size) for word in tokenize(comment)], axis = 0)
 
+
 vocab = set(word for comment in trainingCorpus for word in tokenize(comment))
 
+# Out Of Vocabulary ratio
 OOV = np.fromiter((0 if word in w2v.wv else 1 for word in vocab), dtype = 'int32').mean()
 print()
 print('Out of vocabulary words percentage for our word2vec: {}'.format(OOV))
@@ -143,7 +146,8 @@ print()
 
 del trainingSet, testSet, model
 
-
+# function that returns vector represantation of comment
+# this time using tfidf weights
 def comment2vec(comment):
     return np.mean([idf[idfIndex[word]] * w2v[word] if (word in w2v and word in idfIndex) else np.zeros(w2v.vector_size) for word in analyzer(comment)], axis = 0)
 
